@@ -1,0 +1,14 @@
+{
+  "name": "KotlinReact",
+  "version": "1.0",
+  "private": true,
+  "workspaces": [
+    "packages/KotlinReact"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

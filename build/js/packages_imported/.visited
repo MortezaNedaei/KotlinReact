@@ -1,0 +1,64 @@
+{
+  "version": "9",
+  "items": {
+    "1bf77f7ef45885b86fa4f1a02ed10053": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.5.10/2cab0f51a869235a20bdafb360b698b9083fc61/kotlin-stdlib-js-1.5.10.jar",
+      "target": "kotlin/1.5.10"
+    },
+    "20f4a950760cebba1fc6f9bf1249ddd9": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.10/6b84d926e28493be69daf673e40076f89492ef7/kotlin-stdlib-common-1.5.10.jar"
+    },
+    "377533fb99af2c5530ba1761d2ebcc13": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react/17.0.2-pre.206-kotlin-1.5.10/fe7721e528d5d25549e0d5b19c2c7b19f19b4a8/kotlin-react-17.0.2-pre.206-kotlin-1.5.10.jar",
+      "target": "kotlin-wrappers-kotlin-react-js-legacy/1.0.0-SNAPSHOT"
+    },
+    "d6887f8de61054c19ea19c4cc1913ebc": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-extensions/1.0.1-pre.206-kotlin-1.5.10/833e398fe4e0de8a01b9aa8ca272530241ccba80/kotlin-extensions-1.0.1-pre.206-kotlin-1.5.10.jar",
+      "target": "kotlin-wrappers-kotlin-extensions-js-legacy/1.0.1-pre.206-kotlin-1.5.10"
+    },
+    "32a13967eb349e0ecde5b0cc2fc6b533": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react-dom/17.0.2-pre.206-kotlin-1.5.10/b4f354954fd435af4f7e868a0290403af7fa228d/kotlin-react-dom-17.0.2-pre.206-kotlin-1.5.10.jar",
+      "target": "kotlin-wrappers-kotlin-react-dom-js-legacy/1.0.0-SNAPSHOT"
+    },
+    "c880d38851a2e171d22b75c6e754af7d": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-js/0.7.3/93a1ab4269d3a567e05088d1237eedbc2efd03c9/kotlinx-html-jslegacy-0.7.3.jar",
+      "target": "kotlinx-html-js/0.7.3"
+    },
+    "c7b5eff9fd39ebe018a13e9211913d41": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-styled/5.3.0-pre.206-kotlin-1.5.10/578eff3770e5f810e0a7b12ab12d4ea14876aec3/kotlin-styled-5.3.0-pre.206-kotlin-1.5.10.jar",
+      "target": "kotlin-wrappers-kotlin-styled-js-legacy/1.0.0-SNAPSHOT"
+    },
+    "731d3ce83f8a83b9167fb2f2cfe75027": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-css-js/1.0.0-pre.206-kotlin-1.5.10/6f159b05182f9678eb9b3d19a2fc31207ec82ff9/kotlin-css-jslegacy-1.0-SNAPSHOT.jar",
+      "target": "kotlin-css/1.0.0-pre.206-kotlin-1.5.10"
+    },
+    "c2410a8a1c20a61b665a3d1054f304de": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react-router-dom/5.2.0-pre.206-kotlin-1.5.10/43eadbdbfbda91d1f3b932b16b5e163ce1634a0/kotlin-react-router-dom-5.2.0-pre.206-kotlin-1.5.10.jar",
+      "target": "kotlin-wrappers-kotlin-react-router-dom-js-legacy/1.0.0-SNAPSHOT"
+    },
+    "57d2ed5fe39fe977eea8ef0e3df01308": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-redux/4.0.5-pre.206-kotlin-1.5.10/dc97e83efb3746930d6275ea75428d69b8e3253c/kotlin-redux-4.0.5-pre.206-kotlin-1.5.10.jar",
+      "target": "kotlin-wrappers-kotlin-redux-js-legacy/1.0.0-SNAPSHOT"
+    },
+    "479454ddb27c8b97ae56cf06eb392874": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-js/1.2.1/b0268ad42075b3b0926416a3fdcc734b6b2c85b1/kotlinx-serialization-json-jslegacy-1.2.1.jar",
+      "target": "kotlinx-serialization-kotlinx-serialization-json-js-legacy/1.2.1"
+    },
+    "9f9d2799045b13dc451e68816579881f": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-js/1.2.1/14877d9d475a4464c89b1cad54126ae140003864/kotlinx-serialization-core-jslegacy-1.2.1.jar",
+      "target": "kotlinx-serialization-kotlinx-serialization-core-js-legacy/1.2.1"
+    },
+    "71affca52b161c8ce3f89f8348cf6683": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin-wrappers/kotlin-react-redux/7.2.3-pre.206-kotlin-1.5.10/ebab865fde206ff275e5f0d054e7be08f07043e3/kotlin-react-redux-7.2.3-pre.206-kotlin-1.5.10.jar",
+      "target": "kotlin-wrappers-kotlin-react-redux-js-legacy/1.0.0-SNAPSHOT"
+    },
+    "337ff817e087aded273dfc9ba494baf4": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.5.10/20ef83e15f8c2cde090f3bfd8c1eba72947f7ab8/kotlin-test-js-runner-1.5.10.jar",
+      "target": "kotlin-test-js-runner/1.5.10"
+    },
+    "1573a548ffa9f67e4feb0f2e89e1350e": {
+      "src": "/Users/airtour4/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js/1.5.10/a81b0896d15768898359a9d7129096bbb6f36c78/kotlin-test-js-1.5.10.jar",
+      "target": "kotlin-test/1.5.10"
+    }
+  }
+}

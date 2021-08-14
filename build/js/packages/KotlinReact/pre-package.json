@@ -1,0 +1,34 @@
+{
+  "name": "KotlinReact",
+  "version": "1.0.0",
+  "main": "kotlin/KotlinReact.js",
+  "devDependencies": {
+    "webpack": "5.35.0",
+    "webpack-cli": "4.6.0",
+    "format-util": "1.0.5",
+    "source-map-loader": "2.0.1",
+    "webpack-dev-server": "4.0.0-beta.2",
+    "css-loader": "5.2.4",
+    "style-loader": "2.0.0",
+    "dukat": "0.5.8-rc.4"
+  },
+  "dependencies": {
+    "kotlin": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlin/1.5.10",
+    "kotlin-wrappers-kotlin-react-js-legacy": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlin-wrappers-kotlin-react-js-legacy/1.0.0-SNAPSHOT",
+    "kotlin-wrappers-kotlin-extensions-js-legacy": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlin-wrappers-kotlin-extensions-js-legacy/1.0.1-pre.206-kotlin-1.5.10",
+    "kotlin-wrappers-kotlin-react-dom-js-legacy": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlin-wrappers-kotlin-react-dom-js-legacy/1.0.0-SNAPSHOT",
+    "kotlinx-html-js": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlinx-html-js/0.7.3",
+    "kotlin-wrappers-kotlin-styled-js-legacy": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlin-wrappers-kotlin-styled-js-legacy/1.0.0-SNAPSHOT",
+    "kotlin-css": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlin-css/1.0.0-pre.206-kotlin-1.5.10",
+    "kotlin-wrappers-kotlin-react-router-dom-js-legacy": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlin-wrappers-kotlin-react-router-dom-js-legacy/1.0.0-SNAPSHOT",
+    "kotlin-wrappers-kotlin-redux-js-legacy": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlin-wrappers-kotlin-redux-js-legacy/1.0.0-SNAPSHOT",
+    "kotlinx-serialization-kotlinx-serialization-json-js-legacy": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlinx-serialization-kotlinx-serialization-json-js-legacy/1.2.1",
+    "kotlinx-serialization-kotlinx-serialization-core-js-legacy": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlinx-serialization-kotlinx-serialization-core-js-legacy/1.2.1",
+    "kotlin-wrappers-kotlin-react-redux-js-legacy": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlin-wrappers-kotlin-react-redux-js-legacy/1.0.0-SNAPSHOT",
+    "kotlin-test-js-runner": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlin-test-js-runner/1.5.10",
+    "kotlin-test": "file:/Users/airtour4/IdeaProjects/KotlinReact/build/js/packages_imported/kotlin-test/1.5.10"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

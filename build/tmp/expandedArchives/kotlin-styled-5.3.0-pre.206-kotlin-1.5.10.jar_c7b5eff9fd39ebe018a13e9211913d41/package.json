@@ -1,0 +1,14 @@
+{
+  "name": "kotlin-wrappers-kotlin-styled-js-legacy",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "kotlin-wrappers-kotlin-styled-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {
+    "css-in-js-utils": "^3.1.0",
+    "inline-style-prefixer": "^6.0.0",
+    "styled-components": "^5.2.0"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
